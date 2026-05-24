@@ -6,13 +6,13 @@ Desarrollada en Flutter como evolución de la app Android original.
 ## Pantallas
 
 ### Login
-
+![Login](captura_login..PNG)
 
 ### Lista de propiedades (API REST)
-![Lista](capturas/lista.png)
+![Lista](lista.PNG)
 
 ### Detalle de propiedad
-![Detalle](capturas/detalle.png)
+![Detalle](propiedades.PNG)
 
 ## Funcionalidades
 - Login con validación de formulario y mostrar/ocultar contraseña
