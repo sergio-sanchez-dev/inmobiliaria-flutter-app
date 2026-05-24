@@ -27,4 +27,4 @@ Flutter · Dart · REST API · JSON · Material Design 3
 
 ## App Android original
 La versión Android completa (Java · Kotlin · Firebase · firma digital):
-[CasaBlanca Inmobiliaria App](https://github.com/TU-USERNAME/casablanca-inmobiliaria-app)
+[CasaBlanca Inmobiliaria App](https://github.com/sergio-sanchez-dev/casablanca-inmobiliaria-app)
